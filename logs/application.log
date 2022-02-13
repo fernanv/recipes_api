@@ -1,0 +1,270 @@
+2022-02-13 18:15:27,779 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:16:30,024 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:17:30,319 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:18:30,542 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:25:52,942 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:25:56,127 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:25:56,314 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:25:56,604 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:25:56,767 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:25:57,026 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:25:57,162 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:25:57,449 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:28:39,302 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:28:42,160 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:28:42,381 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:28:42,692 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:28:42,846 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:28:43,116 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:28:43,238 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:28:43,468 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 18:31:52,782 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:31:55,620 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:31:55,833 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:31:56,150 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 18:31:56,354 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:31:56,589 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:31:56,766 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:31:56,997 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:33:26,654 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:33:29,479 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:33:29,698 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:33:30,024 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 18:33:30,222 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:33:30,421 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:33:30,558 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:33:30,786 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:35:37,288 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:35:40,134 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:35:40,316 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:35:40,642 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:35:40,841 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:35:41,657 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:35:41,796 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:35:41,997 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:37:17,615 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:37:20,516 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:37:20,713 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:37:21,052 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:37:21,264 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:37:22,108 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:37:22,286 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:37:22,470 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:38:25,989 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:38:28,833 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:38:29,035 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:38:29,367 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 18:38:29,533 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:38:30,442 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 18:38:30,565 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 18:38:30,733 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:14:07,921 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:14:11,430 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:14:11,698 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:14:12,079 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:14:12,245 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:14:13,206 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:14:13,372 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:14:13,618 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:15:28,273 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:15:31,764 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:15:32,059 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:15:32,440 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:15:32,585 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:15:33,409 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:15:33,548 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:15:33,779 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:19:43,848 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:19:47,374 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:19:47,632 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:19:48,197 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:19:48,349 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:19:49,177 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:19:49,354 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:19:49,638 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:23:14,236 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:23:17,582 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:23:17,851 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:23:18,298 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:23:18,456 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:23:19,128 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:23:19,298 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:23:19,556 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:27:10,356 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:27:13,797 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:27:14,013 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:27:14,514 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:27:14,651 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:27:15,337 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:27:15,506 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:27:15,757 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:28:05,753 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:28:09,382 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:28:09,605 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:28:09,855 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:28:10,004 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:28:10,815 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:28:10,978 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:28:11,276 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:32:07,974 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:32:11,362 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:32:11,579 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:32:11,820 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:32:11,962 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:32:12,668 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:32:12,834 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:32:13,036 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:33:16,244 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:33:19,952 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:33:20,146 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:33:20,369 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:33:20,513 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:33:21,239 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:33:21,452 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:33:21,668 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:34:17,395 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:34:21,075 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:34:21,265 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:34:21,490 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:34:21,638 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:34:22,407 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:34:22,590 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:34:22,793 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:35:11,222 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:35:14,730 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:35:14,944 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:35:15,204 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:35:15,348 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:35:16,305 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:35:16,464 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:35:16,684 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:36:13,126 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:36:16,623 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:36:16,846 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:36:17,138 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:36:17,305 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:36:18,170 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:36:18,343 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:36:18,568 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:36:47,261 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:36:50,644 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:36:50,875 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:36:51,139 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:36:51,282 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:36:52,052 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:36:52,205 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:36:52,395 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:39:21,196 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:39:24,642 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:39:24,879 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:39:25,131 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:39:25,268 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:39:26,271 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:39:26,435 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:39:26,657 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:40:04,159 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:40:07,852 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:40:08,056 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:40:08,291 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:40:08,465 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:40:09,314 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:40:09,459 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:40:09,662 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:44:29,764 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:44:33,398 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:44:33,602 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:44:33,841 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:44:33,985 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:44:34,755 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:44:34,951 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:44:35,172 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:45:39,658 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:45:43,351 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:45:43,545 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:45:43,768 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:45:43,912 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:45:44,602 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:45:44,764 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:45:44,978 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:49:06,465 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:49:10,636 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 21:49:10,877 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:49:11,132 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:49:11,334 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:49:12,123 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:49:12,316 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:49:12,538 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:50:22,763 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:50:26,355 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:50:26,565 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:50:26,884 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:50:27,032 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:50:27,805 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:50:27,973 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:50:28,223 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:51:20,259 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:51:24,298 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:51:24,494 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:51:24,812 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:51:24,953 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:51:25,938 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:51:26,099 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:51:26,360 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:52:28,246 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:52:31,952 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:52:32,167 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:52:32,407 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 21:52:32,532 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:52:33,355 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:52:33,530 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:52:33,738 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:59:40,621 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:59:48,261 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:59:48,674 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:59:49,180 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 21:59:49,410 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:59:50,737 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 21:59:51,010 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 21:59:51,411 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:05:50,786 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:05:54,298 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:05:54,513 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:05:54,735 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 22:05:54,877 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:05:55,119 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:21:01,074 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:21:06,815 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:21:07,047 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:21:07,347 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:21:07,496 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:21:07,773 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-4 - Shutting down connection pool.
+2022-02-13 22:25:58,822 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:26:03,291 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:26:03,506 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:26:03,765 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:26:03,907 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:26:04,215 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:27:04,330 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:27:09,217 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:27:09,428 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:27:09,757 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-5 - Shutting down connection pool.
+2022-02-13 22:27:09,892 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:27:10,170 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:27:49,378 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:27:53,173 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:27:53,386 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:27:53,713 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:27:53,902 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:27:54,181 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:31:35,315 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:31:38,747 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:31:38,954 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:31:39,219 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:31:39,365 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:31:39,643 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:32:34,630 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:32:39,113 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.
+2022-02-13 22:32:39,342 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:32:39,593 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-02-13 22:32:39,764 [INFO] from play.api.db.HikariCPConnectionPool in pool-1-thread-1 - Creating Pool for datasource 'default'
+2022-02-13 22:32:40,015 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-2 - Shutting down connection pool.

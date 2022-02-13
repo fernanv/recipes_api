@@ -1,0 +1,9 @@
+@(utensils: List[Utensil])
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    @if(utensils.size() > 0){
+        @for(utensil <- utensils) {
+            @_utensil(utensil)
+        }
+    }
+</recipes>

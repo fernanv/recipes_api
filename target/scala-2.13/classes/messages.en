@@ -1,0 +1,36 @@
+different_quantities = Different number of ingredients and quantities
+recipe_exists = Recipe already exists
+recipe_deleted = Recipe successfully deleted
+recipe_created = Recipe successfully created
+recipe_updated = Recipe successfully updated
+recipe_min = Min title length is 5
+recipe_max = Max title length is 50
+recipe_blank = Recipe title can't be blank
+title_required = Recipe title is required
+description_required = Recipe description is required
+description_blank = Recipe description can't be blank
+description_min = Min description length is 10
+description_max = Max description length is 120
+time_required = Recipe time is required
+time_min = Min preparation time is 5 minutes
+time_max = Max preparation time is 300 minutes
+level_required = Recipe level is required
+steps_required = Recipe steps are required
+ingredients_required = Recipe ingredients are required
+quantities_required = Recipe quantities are required
+utensils_required = Recipe utensils are required
+tags_required = Recipe tags are required
+recipe_not_found = Recipe not found
+
+ingredient_exists = Ingredient already exists
+ingredient_created = Ingredient successfully created
+ingredient_deleted = Ingredient successfully deleted
+ingredient_added = Ingredient successfully added
+ingredient_removed = Ingredient successfully removed
+ingredient_min = Min name length is 5
+ingredient_max = Max name length is 50
+ingredient_blank = Ingredient name can't be blank
+ingredient_required = Ingredient name is required
+ingredient_not_found = Ingredient not found
+
+unsupported_format = Unsupported format

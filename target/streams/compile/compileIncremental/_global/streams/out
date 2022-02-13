@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/fernandovillalba/Desktop/Máster/CloudComputing/Servicios REST/play-samples-play-java-hello-world-tutorial/app/controllers/RecipeController.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(/Users/fernandovillalba/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-cache_2.13/2.8.13/play-cache_2.13-2.8.13.jar, /Users/fernandovillalba/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/cache/cache-api/1.1.1/cache-api-1.1.1.jar, /Users/fernandovillalba/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/sf/ehcache/ehcache/2.10.9.2/ehcache-2.10.9.2.jar, /Users/fernandovillalba/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/ehcache/jcache/1.0.1/jcache-1.0.1.jar, /Users/fernandovillalba/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-ehcache_2.13/2.8.13/play-ehcache_2.13-2.8.13.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(controllers.RecipeController)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(controllers.RecipeController)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/fernandovillalba/Desktop/Máster/CloudComputing/Servicios REST/play-samples-play-java-hello-world-tutorial/app/controllers/RecipeController.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: controllers.RecipeController[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Java source to /Users/fernandovillalba/Desktop/Máster/CloudComputing/Servicios REST/play-samples-play-java-hello-world-tutorial/target/scala-2.13/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mjavac exited with exit code 1[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) javac returned non-zero exit code[0m

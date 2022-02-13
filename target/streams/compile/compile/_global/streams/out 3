@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/fernandovillalba/Desktop/Máster/CloudComputing/Servicios REST/play-samples-play-java-hello-world-tutorial/app/views/ingredients.scala.xml:6:26: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : models.Ingredient[0m
+[0m[[0m[31merror[0m] [0m[0m required: models.IngredientQuantity[0m
+[0m[[0m[31merror[0m] [0m[0m            @_ingredient(ingredient)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

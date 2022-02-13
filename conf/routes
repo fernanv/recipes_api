@@ -1,0 +1,69 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Consultar todas las recetas y filtrarlas por tiempo máximo, etiqueta o dificultad
+GET     /recetas                    controllers.RecipeController.getAllRecipes(request: Request)
+GET     /recetas/tiempo/:maxTime    controllers.RecipeController.getRecipesByTime(request: Request, maxTime)
+GET     /recetas/etiqueta/:tag      controllers.RecipeController.getRecipesByTags(request: Request, tag)
+GET     /recetas/dificultad/:level  controllers.RecipeController.getRecipesByLevel(request: Request, level)
+
+# Consultar, crear, actualizar y borrar una receta
+GET    /receta/:recipeId   controllers.RecipeController.getOneRecipe(recipeId, request: Request)
+POST   /recetas            controllers.RecipeController.createRecipe(request: Request)
+PUT    /receta/:recipeId   controllers.RecipeController.updateRecipe(recipeId, request: Request)
+DELETE /receta/:recipeId   controllers.RecipeController.deleteRecipe(recipeId, request: Request)
+
+# Consultar, crear y borrar un ingrediente
+GET    /ingrediente/:ingredientId   controllers.IngredientController.getOneIngredient(ingredientId, request: Request)
+POST   /ingredientes                controllers.IngredientController.createIngredient(request: Request)
+DELETE /ingrediente/:ingredientId   controllers.IngredientController.deleteIngredient(ingredientId, request: Request)
+
+# Consultar todos los ingredientes
+GET    /ingredientes   controllers.IngredientController.getAllIngredients(request: Request)
+
+# Añadir y quitar un ingrediente de una receta
+POST   /receta/:recipeId/ingrediente/:ingredientId   controllers.IngredientController.addIngredient(recipeId, ingredientId, request: Request)
+DELETE /receta/:recipeId/ingrediente/:ingredientId/quantity/:quantityId   controllers.IngredientController.quitIngredient(recipeId, ingredientId, quantityId, request: Request)
+
+# Consultar todos los ingredientes de una receta
+GET    /receta/:recipeId/ingredientes   controllers.IngredientController.getRecipeIngredients(recipeId, request: Request)
+
+# Consultar todas las etiquetas
+GET    /etiquetas   controllers.TagController.getAllTags(request: Request)
+
+# Añadir y quitar una etiqueta asociado a una receta
+POST   /receta/:recipeId/etiqueta/:tagId      controllers.TagController.addTag(recipeId, tagId)
+DELETE /receta/:recipeId/etiqueta/:tagId      controllers.TagController.quitTag(recipeId, tagId)
+
+# Consultar, crear y borrar una etiqueta
+GET    /etiqueta/:tagId   controllers.TagController.getOneTag(tagId, request: Request)
+POST   /etiquetas         controllers.TagController.createTag(request: Request)
+DELETE /etiqueta/:tagId   controllers.TagController.deleteTag(tagId)
+
+# Consultar todas las etiquetas de una receta
+GET    /receta/:recipeId/etiquetas   controllers.TagController.getRecipeTags(recipeId, request: Request)
+
+# Consultar todos los utensilios
+GET    /utensilios   controllers.UtensilController.getAllUtensils(request: Request)
+
+# Añadir y quitar un utensilio asociado a una receta
+POST   /receta/:recipeId/utensilio/:utensilId      controllers.UtensilController.addUtensil(recipeId, utensilId)
+DELETE /receta/:recipeId/utensilio/:utensilId      controllers.UtensilController.quitUtensil(recipeId, utensilId)
+
+# Consultar, crear y borrar un utensilio
+GET    /utensilio/:utensilId   controllers.UtensilController.getOneUtensil(utensilId, request: Request)
+POST   /utensilios             controllers.UtensilController.createUtensil(request: Request)
+DELETE /utensilio/:utensilId   controllers.UtensilController.deleteUtensil(utensilId)
+
+# Consultar todos los utensilios necesarios para una receta
+GET    /receta/:recipeId/utensilios   controllers.UtensilController.getRecipeUtensils(recipeId, request: Request)
+
+# Añadir, actualizar y borrar un paso de una receta
+POST   /receta/:recipeId/pasos         controllers.StepController.addStep(recipeId, request: Request)
+PUT    /receta/:recipeId/paso:order   controllers.StepController.updateStep(recipeId, order, request: Request)
+DELETE /receta/:recipeId/paso:order   controllers.StepController.deleteStep(recipeId, order)
+
+# Consultar y actualizar todos los pasos necesarios para elaborar una receta
+GET   /receta/:recipeId/pasos   controllers.StepController.getAllSteps(recipeId, request: Request)
+PUT   /receta/:recipeId/pasos   controllers.StepController.updateAllSteps(recipeId, request: Request)

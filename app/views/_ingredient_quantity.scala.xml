@@ -1,0 +1,7 @@
+@(ingredient: IngredientQuantity)
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredient>
+    <name>@ingredient.getParentIngredient.getName</name>
+    <quantity>@ingredient.getQuantity</quantity>
+    <type>@ingredient.getType</type>
+</ingredient>

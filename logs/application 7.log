@@ -1,0 +1,38 @@
+2022-02-08 20:02:05,262 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-9 - Database [default] initialized
+2022-02-08 20:02:05,265 [INFO] from play.api.db.HikariCPConnectionPool in play-dev-mode-akka.actor.default-dispatcher-9 - Creating Pool for datasource 'default'
+2022-02-08 20:02:06,205 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-9 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2022-02-08 20:02:06,381 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-9 - Application started (Dev) (no global state)
+2022-02-08 20:02:18,812 [WARN] from com.sun.jna.Native in WatchService for /Users/fernandovillalba/Desktop/Máster/CloudComputing/Servicios REST/play-samples-play-java-hello-world-tutorial/app - JNA: Callback io.methvin.watchservice.MacOSXListeningWatchService$MacOSXListeningCallback@7a4e8164 threw the following exception
+java.lang.IllegalStateException: Could not recursively list files for /
+	at io.methvin.watchservice.MacOSXListeningWatchService$MacOSXListeningCallback.invoke(MacOSXListeningWatchService.java:268)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.sun.jna.CallbackReference$DefaultCallbackProxy.invokeCallback(CallbackReference.java:520)
+	at com.sun.jna.CallbackReference$DefaultCallbackProxy.callback(CallbackReference.java:551)
+	at com.sun.jna.Native.invokeVoid(Native Method)
+	at com.sun.jna.Function.invoke(Function.java:415)
+	at com.sun.jna.Function.invoke(Function.java:361)
+	at com.sun.jna.Library$Handler.invoke(Library.java:265)
+	at com.sun.proxy.$Proxy13.CFRunLoopRun(Unknown Source)
+	at io.methvin.watchservice.MacOSXListeningWatchService$CFRunLoopThread.run(MacOSXListeningWatchService.java:179)
+Caused by: java.nio.file.AccessDeniedException: /usr/sbin/authserver
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:84)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newDirectoryStream(UnixFileSystemProvider.java:407)
+	at java.nio.file.Files.newDirectoryStream(Files.java:457)
+	at java.nio.file.FileTreeWalker.visit(FileTreeWalker.java:300)
+	at java.nio.file.FileTreeWalker.next(FileTreeWalker.java:372)
+	at java.nio.file.Files.walkFileTree(Files.java:2706)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at io.methvin.watcher.PathUtils.recursiveVisitFiles(PathUtils.java:108)
+	at io.methvin.watcher.PathUtils.recursiveListFiles(PathUtils.java:97)
+	at io.methvin.watchservice.MacOSXListeningWatchService$MacOSXListeningCallback.invoke(MacOSXListeningWatchService.java:266)
+	... 12 common frames omitted

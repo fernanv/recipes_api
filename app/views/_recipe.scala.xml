@@ -1,0 +1,37 @@
+@(recipe: Recipe)
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+    <title>@(recipe.getTitle)</title>
+    <description>@(recipe.getDescription.getDescription)</description>
+    <preparation_time>@(recipe.getPreparationTime)</preparation_time>
+    <level>@(recipe.getLevel)</level>
+
+    @if(recipe.getTags().size() > 0){
+    <tags>
+        @for(tag <- recipe.getTags()) {
+            @_tag(tag)
+        }
+    </tags>
+    }
+    @if(recipe.getQuantities().size() > 0){
+        <ingredients>
+            @for(ingredient <- recipe.getQuantities()) {
+                @_ingredient_quantity(ingredient)
+            }
+        </ingredients>
+    }
+    @if(recipe.getUtensils().size() > 0){
+        <utensils>
+            @for(utensil <- recipe.getUtensils()) {
+                @_utensil(utensil)
+            }
+        </utensils>
+    }
+    @if(recipe.getSteps().size() > 0){
+        <steps>
+            @for(step <- recipe.getSteps()) {
+                @_step(step)
+            }
+        </steps>
+    }
+</recipe>

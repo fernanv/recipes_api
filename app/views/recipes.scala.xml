@@ -1,0 +1,9 @@
+@(recipes: List[Recipe])
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    @if(recipes.size() > 0){
+        @for(recipe <- recipes) {
+            @_recipe(recipe)
+        }
+    }
+</recipes>

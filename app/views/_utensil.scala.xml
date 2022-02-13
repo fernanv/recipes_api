@@ -1,0 +1,5 @@
+@(utensil: Utensil)
+<?xml version="1.0" encoding="UTF-8"?>
+<utensil>
+    <name>@utensil.getName</name>
+</utensil>

@@ -1,0 +1,36 @@
+different_quantities = Diferente número de ingredientes y cantidades
+recipe_exists = La receta ya existe
+recipe_deleted = Receta eliminada con éxito
+recipe_created = Receta creada con éxito
+recipe_updated = Receta actualizada con éxito
+recipe_min = La longitud mínima del título es 5
+recipe_max = La longitud máxima del título es 50
+recipe_blank = El tíitulo de la receta no puede quedarse en blanco
+title_required = Es imprescindible introducir el título de la receta
+description_required = Es imprescindible introducir la descripción de la receta
+description_blank = La descripción de la receta no puede quedarse en blanco
+description_min = La longitud mínima de la descripción es 10
+description_max = La longitud máxima de la descripción es 120
+time_required = Es imprescindible introducir el tiempo de preparación de la receta
+time_min = El tiempo mínimo de preparación de la receta son 5 minutos
+time_max = El tiempo máximo de preparación de la receta son 300 minutos
+level_required = Es imprescindible introducir el nivel de la receta
+steps_required = Es imprescindible introducir los pasos de la receta
+ingredients_required = Es imprescindible introducir los ingredientes de la receta
+quantities_required = Es imprescindible introducir las cantidades de los ingredientes de la receta
+utensils_required = Es imprescindible introducir los utensilios de la receta
+tags_required = Es imprescindible introducir las etiquetas de la receta
+recipe_not_found = No se ha encontrado la receta
+
+ingredient_exists = El ingrediente ya existe
+ingredient_created = Ingrediente creado con éxito
+ingredient_deleted = Ingrediente eliminado con éxito
+ingredient_added = Ingrediente añadido a la receta con éxito
+ingredient_removed = Ingrediente quitado de la receta con éxito
+ingredient_min = La longitud mínima del nombre del ingrediente es 5
+ingredient_max = La longitud máxima del nombre del ingrediente es 5
+ingredient_blank = El nombre del ingrediente no puede quedarse en blanco
+ingredient_required = Es imprescindible introducir el nombre del ingrediente
+ingredient_not_found = No se ha encontrado el ingrediente
+
+unsupported_format = Formato no soportado

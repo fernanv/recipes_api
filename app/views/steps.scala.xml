@@ -1,0 +1,9 @@
+@(steps: List[Step])
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    @if(steps.size() > 0){
+        @for(step <- steps) {
+            @_step(step)
+        }
+    }
+</recipes>
